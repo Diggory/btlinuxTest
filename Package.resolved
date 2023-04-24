@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "bluetooth",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PureSwift/Bluetooth.git",
+      "state" : {
+        "revision" : "88943f1edfd9868e6339852ab3a9e6d61e077287",
+        "version" : "6.3.1"
+      }
+    },
+    {
+      "identity" : "bluetoothlinux",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PureSwift/BluetoothLinux.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "992ea0b1c9e8254eda791bede8f26a2fd58d1f2c"
+      }
+    },
+    {
+      "identity" : "socket",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PureSwift/Socket.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a8437d5d825b73931de549148b6882a4a4e86ba4"
+      }
+    },
+    {
+      "identity" : "swift-system",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PureSwift/swift-system",
+      "state" : {
+        "branch" : "feature/dynamic-lib",
+        "revision" : "3e5be49e7cee5ba46f5b5bc994f08061dd9fe92a"
+      }
+    }
+  ],
+  "version" : 2
+}
